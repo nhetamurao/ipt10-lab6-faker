@@ -1,0 +1,19 @@
+{
+    "name": "aufccs/ipt10-lab6-faker",
+    "description": "A simple php project using composerfakerPHP",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Aufccs\\Ipt10Lab6Faker\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Kenneth Amurao"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {
+        "fakerphp/faker": "^1.23"
+    }
+}
